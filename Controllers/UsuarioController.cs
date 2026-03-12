@@ -175,7 +175,7 @@ namespace apiRESTBdUsuarioTADS.Controllers
         }
 
 
-        // Endpoint para consulta de usuarios vwRptUsuario
+        // Endpoint para consulta de tipo de usuarios tipousuario
         [HttpGet]
         [Route("tads/usuario/vwtipousuario")]
         public clsApiStatus vwtipousuario()
